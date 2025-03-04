@@ -71,11 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-
-# NETFLIX GPT
-- create react app
-- configured tailwindcss
-
-## Features 
-- Browse after authentication 
-   -
